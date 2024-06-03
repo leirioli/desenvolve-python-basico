@@ -22,4 +22,10 @@ notade1 = qntReais // 1
 qntReais %= 1
 
 # resultado
-print(f'\n{notade100} notas(s) de R$100,00\n{notade50} notas(s) de R$50,00\n{notade20} notas(s) de R$20,00\n{notade10} notas(s) de R$10,00\n{notade5} notas(s) de R$5,00\n{notade2} notas(s) de R$2,00\n{notade1} notas(s) de R$1,00\n')
+print(f'{notade100} notas(s) de R$100,00')
+print(f'{notade50} notas(s) de R$50,00')
+print(f'{notade20} notas(s) de R$20,00')
+print(f'{notade10} notas(s) de R$10,00')
+print(f'{notade5} notas(s) de R$5,00')
+print(f'{notade2} notas(s) de R$2,00')
+print(f'{notade1} notas(s) de R$1,00')
